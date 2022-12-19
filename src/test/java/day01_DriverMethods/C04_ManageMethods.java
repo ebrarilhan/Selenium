@@ -3,7 +3,7 @@ package day01_DriverMethods;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Day01_ManageMethods {
+public class C04_ManageMethods {
 
     /*
     Amazon soyfasina gidelim. https://www.amazon.com/
